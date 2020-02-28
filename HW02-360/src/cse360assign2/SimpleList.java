@@ -5,7 +5,7 @@
  * The methods in this class allows the user to add 
  * and remove integers, search for an integer, and 
  * display the array.
- * Repository: 
+ * Repository: https://github.com/qhpham/cse360assign2.git
  */
 
 package cse360assign2;
